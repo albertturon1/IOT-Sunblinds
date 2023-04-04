@@ -26,9 +26,8 @@ int activeSunblind = 0;
 
 const int sunblindsLength = 3;
 
-// const char* ssid = "MASZT TESTOWY 5G 200% MOCY";
-const char* ssid = "TP-Link_CE3C";
-const char* password = "78831353";
+const char* ssid = "";
+const char* password = "";
 
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 0;
